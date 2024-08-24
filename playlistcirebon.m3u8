@@ -4130,8 +4130,6 @@ https://s3.vinhostmedia.com/9504/;
 http://110.44.169.32/gema
 #EXTINF:-1 tvg-logo="https://iili.io/JmxHnDP.png" group-title="RADIO INDONESIA",Genta Bali
 http://stream.werdimedia.com:8200/;
-#EXTINF:-1 tvg-logo="https://iili.io/JmxHxx1.png" group-title="RADIO INDONESIA",Geronimo FM
-http://103.153.2.58:8004/;stream.nsv
 #EXTINF:-1 tvg-logo="https://iili.io/JmxHaON.png" group-title="RADIO INDONESIA",Heartline Samarinda
 http://202.129.186.43:7025/stream
 #EXTINF:-1 tvg-logo="https://iili.io/JmxHcbI.png" group-title="RADIO INDONESIA",Heartline Tangerang
@@ -4304,8 +4302,6 @@ http://202.65.114.229:9314/;
 http://taradio.onlivestreaming.net:10350/stream
 #EXTINF:-1 tvg-logo="https://iili.io/JmoyQyB.png" group-title="RADIO INDONESIA",Thomson News
 http://i.klikhost.com:8240/
-#EXTINF:-1 tvg-logo="https://iili.io/JmoyyGa.png" group-title="RADIO INDONESIA",Trendy FM
-http://i.klikhost.net:8018/;
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx996J.png" group-title="RADIO INDONESIA",UB Radio
 http://175.45.185.215:8000/admin
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9J3v.png" group-title="RADIO INDONESIA",Unasko FM
@@ -4314,10 +4310,6 @@ https://svara-stream.radioddns.net:8443/unasko_radio
 http://utyfmedari.us.myradio.web.id:8000/utyfmedari
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9nGs.png" group-title="RADIO INDONESIA",Visi FM
 https://i.klikhost.com/8274/;stream.mp3
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9o6G.png" group-title="RADIO INDONESIA",Voks 99.3 FM Bali
-https://svara-stream.radioddns.net:8443/Bali_voksradio_993fm
-#EXTINF:-1 tvg-logo="https://iili.io/Jmx9RuS.png" group-title="RADIO INDONESIA",Voks Radio Medan
-http://svara-stream.radioddns.net:8000/medan_voksradio
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9A92.png" group-title="RADIO INDONESIA",XChannel Bandung
 http://202.78.200.228:8002/stream
 #EXTINF:-1 tvg-logo="https://iili.io/Jmx9A92.png" group-title="RADIO INDONESIA",XChannel Banten
